@@ -9,8 +9,9 @@ About me:
         to @asarr22 's Project Radical and Project Kebab learned a ton about Android tweaking 
         and the lack of development for that device led to me trying to develop it myself. 
 
-Not gonna make this intro any more boring cause if you have read so far then I wouldn't want to bore you any further.
-Anyway here's a quick and boring list of some of the people who have played in important part in making me who I am today
+
+Anyway here's a quick and boring list of some of the people who have 
+played in important part in making me who I am today
 and helping me throughout my projects:
  
 
