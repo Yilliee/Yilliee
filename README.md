@@ -30,4 +30,4 @@ Contact me :
 
         Telegram : https://t.me/yilliee   
        Instagram : https://instagram.com/spam_yilliee
-           Gmail : yilliee@protonmail.com
+           Email : yilliee@protonmail.com
