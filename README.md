@@ -16,8 +16,17 @@ and helping me throughout my projects:
  
 
 
-        @asarr22, @soulr344, @hendamanu, @simons1920, @astrako, @stolethesauce, @fiestalake,
-        @khalvat-m, @cnkzlyr, @erfanoabdi and the person who helped me the most @DarthJabba9
+- @asarr22
+- @soulr344
+- @hendamanu
+- @simons1920
+- @astrako
+- @stolethesauce
+- @fiestalake
+- @khalvat-m
+- @cnkzlyr
+- @erfanoabdi
+- and the person who helped me the most @DarthJabba9
  
     
      
