@@ -1,13 +1,7 @@
 Yahallo !!
 
 About me:
-        (Boring story ahead xD)
-
-        I'm just an average 17 year old person who installed twrp for the first time 
-        in March 2020 in order to root my J5 prime to try to install fortnite on that old arm32 device.
-        Was able to root but failed miserably in my goal xD (try to figure out why) but thnx 
-        to @asarr22 's Project Radical and Project Kebab learned a ton about Android tweaking 
-        and the lack of development for that device led to me trying to develop it myself. 
+        Just an average 18 year old!
 
 
 Anyway here's a quick and boring list of some of the people who have 
