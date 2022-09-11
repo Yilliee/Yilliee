@@ -1,15 +1,13 @@
 Yahallo !!
 
 About me:
-        Just an average 18 year old!
+```        Just an average 18 year old!```
 
 
 Anyway here's a quick and boring list of some of the people who have 
 played in important part in making me who I am today
 and helping me throughout my projects:
- 
-
-
+```
 - @asarr22
 - @soulr344
 - @hendamanu
@@ -21,7 +19,7 @@ and helping me throughout my projects:
 - @cnkzlyr
 - @erfanoabdi
 - and the person who helped me the most @DarthJabba9
- 
+```
     
      
 [![Yillié's GitHub stats](https://github-readme-stats.vercel.app/api?username=yilliee)](https://github.com/anuraghazra/github-readme-stats)
