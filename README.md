@@ -1,7 +1,7 @@
 Yahallo !!
 
 About me:
-```        Just an average 18 year old!```
+```        Just an average 19 year old!```
 
 
 Anyway here's a quick and boring list of some of the people who have 
@@ -31,4 +31,4 @@ Contact me :
 
         Telegram : https://t.me/yilliee   
        Instagram : https://instagram.com/spam_yilliee
-           Email : yilliee@protonmail.com
+           Email : yilliee@proton.me
