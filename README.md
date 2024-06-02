@@ -1,34 +1,18 @@
-Yahallo !!
+## Hello there !!
 
 About me:
-```        Just an average 19 year old!```
-
-
-Anyway here's a quick and boring list of some of the people who have 
-played in important part in making me who I am today
-and helping me throughout my projects:
 ```
-- @asarr22
-- @soulr344
-- @hendamanu
-- @simons1920
-- @astrako
-- @stolethesauce
-- @fiestalake
-- @khalvat-m
-- @cnkzlyr
-- @erfanoabdi
-- and the person who helped me the most @DarthJabba9
+Motivated and curious Computer Science student with a passion for learning and exploring the world of technology.
+Currently interested in Cyber Security, Data Science and Embedded Systems.
+Eager to contribute to open-source projects and collaborate with the developer community.
+Passionate about competitive programming, always looking for new challenges.
 ```
-    
-     
-[![Yillié's GitHub stats](https://github-readme-stats.vercel.app/api?username=yilliee)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=yilliee)
 
+[![Yillié's GitHub stats](https://github-readme-stats.vercel.app/api?username=yilliee)](https://github.com/anuraghazra/github-readme-stats)
 
 Contact me :
 
-        Telegram : https://t.me/yilliee   
-       Instagram : https://instagram.com/spam_yilliee
+        Telegram : https://t.me/yilliee
            Email : yilliee@proton.me
